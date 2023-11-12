@@ -5,7 +5,16 @@
 [![GitHub forks](https://img.shields.io/github/forks/rubenslyra/expresso-lanches)](https://github.com/rubenslyra/expresso-lanches/network)
 [![GitHub stars](https://img.shields.io/github/stars/rubenslyra/expresso-lanches)](https://github.com/rubenslyra/expresso-lanches/stargazers)
 
-Bem-vindo ao projeto Expresso Lanches! Este é um aplicativo para uma lanchonete fictícia localizada em um vagão de trem, criado com as seguintes tecnologias:
+Bem-vindo ao **Expresso Lanches**, o aplicativo para uma lanchonete fictícia localizada em um vagão de trem. Este projeto utiliza uma variedade de tecnologias modernas para criar uma experiência única de pedidos de lanches.
+
+### Descrição
+
+O Expresso Lanches é uma aplicação completa para gerenciamento de pedidos em uma lanchonete temática, oferecendo uma experiência de usuário intuitiva e agradável. Os clientes podem explorar o menu, fazer pedidos e acompanhar o status em tempo real, enquanto a equipe da lanchonete gerencia os pedidos de forma eficiente.
+
+![Absolute_Reality_v16_lanchonete_em_vagao_de_trem_pessoa_atende_1 (1)](https://github.com/rubenslyra/expresso-lanches/assets/37023108/6891e2a9-02ce-4063-b6ab-d8ef1d9e242c)
+
+
+### Tecnologias Utilizadas
 
 - ![SQL Server](https://img.shields.io/badge/SQL_Server-2019-blue?logo=microsoft-sql-server)
 - ![.NET 7](https://img.shields.io/badge/.NET-7.0-blue?logo=.net)
@@ -18,12 +27,9 @@ Bem-vindo ao projeto Expresso Lanches! Este é um aplicativo para uma lanchonete
 [![BRModelo](https://img.shields.io/badge/BRModelo-Online-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMElEQVR42mP8/w8AAwAB/AG+fbMAAAAASUVORK5CYII=)](https://app.brmodeloweb.com/)
 
 
-![DreamShaper_v7_lanchonete_em_vagao_de_trem_pessoa_atendendo_pe_1 (6)](https://github.com/rubenslyra/expresso-lanches/assets/37023108/30b559d1-b4a7-4364-9938-eac5975279f5)
-
-
 ### Configuração do Ambiente
 
-Certifique-se de ter as seguintes ferramentas instaladas em sua máquina antes de começar:
+Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
 - [![SQL Server](https://img.shields.io/badge/SQL_Server-2019-blue?logo=microsoft-sql-server)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [![SSMS](https://img.shields.io/badge/SSMS-Latest-blue?logo=microsoft-sql-server)](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms)
@@ -57,7 +63,7 @@ npm install
 ng serve
 ```
 
-### BRModelo
+### Modelagem do Banco de Dados
 
 O [BRModelo](https://app.brmodeloweb.com/) foi utilizado para a modelagem do banco de dados. Consulte os arquivos na pasta `database-model` para visualizar o modelo.
 

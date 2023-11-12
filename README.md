@@ -1,4 +1,4 @@
-## Expresso Lanches
+# Expresso Lanches
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/rubenslyra/expresso-lanches)](https://github.com/rubenslyra/expresso-lanches/issues)

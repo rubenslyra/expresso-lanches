@@ -11,7 +11,8 @@ Bem-vindo ao **Expresso Lanches**, o aplicativo para uma lanchonete fictícia lo
 
 O Expresso Lanches é uma aplicação completa para gerenciamento de pedidos em uma lanchonete temática, oferecendo uma experiência de usuário intuitiva e agradável. Os clientes podem explorar o menu, fazer pedidos e acompanhar o status em tempo real, enquanto a equipe da lanchonete gerencia os pedidos de forma eficiente.
 
-![Absolute_Reality_v16_lanchonete_em_vagao_de_trem_pessoa_atende_1 (1)](https://github.com/rubenslyra/expresso-lanches/assets/37023108/6891e2a9-02ce-4063-b6ab-d8ef1d9e242c)
+
+![Absolute_Reality_v16_lanchonete_em_vagao_de_trem_pessoa_atende_0 (1)](https://github.com/rubenslyra/expresso-lanches/assets/37023108/7cf8dd6e-d38e-4a6f-9fe2-1ab23a32f872)
 
 
 ### Tecnologias Utilizadas

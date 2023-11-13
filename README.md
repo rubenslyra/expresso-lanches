@@ -1,20 +1,12 @@
-# Expresso Lanches
+# Expresso Lanches - O Sabor que Viaja de Trem! 🚂🍔🍟
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/rubenslyra/expresso-lanches)](https://github.com/rubenslyra/expresso-lanches/issues)
-[![GitHub forks](https://img.shields.io/github/forks/rubenslyra/expresso-lanches)](https://github.com/rubenslyra/expresso-lanches/network)
-[![GitHub stars](https://img.shields.io/github/stars/rubenslyra/expresso-lanches)](https://github.com/rubenslyra/expresso-lanches/stargazers)
-
-Bem-vindo ao **Expresso Lanches**, o aplicativo para uma lanchonete fictícia localizada em um vagão de trem. Este projeto utiliza uma variedade de tecnologias modernas para criar uma experiência única de pedidos de lanches.
+Bem-vindo ao **Expresso Lanches**, o aplicativo para uma lanchonete fictícia localizada em um vagão de trem. Este projeto combina diversas tecnologias modernas para criar uma experiência única de pedidos de lanches.
 
 ### Descrição
 
 O Expresso Lanches é uma aplicação completa para gerenciamento de pedidos em uma lanchonete temática, oferecendo uma experiência de usuário intuitiva e agradável. Os clientes podem explorar o menu, fazer pedidos e acompanhar o status em tempo real, enquanto a equipe da lanchonete gerencia os pedidos de forma eficiente.
 
-
-![Absolute_Reality_v16_lanchonete_em_vagao_de_trem_pessoa_atende_1](https://github.com/rubenslyra/expresso-lanches/assets/37023108/457262e6-c10c-4f37-9e0e-fabe82195168)
-
-
+![Expresso Lanches - Lanchonete em Vagão de Trem](https://github.com/rubenslyra/expresso-lanches/assets/37023108/457262e6-c10c-4f37-9e0e-fabe82195168)
 
 ### Tecnologias Utilizadas
 
@@ -26,8 +18,7 @@ O Expresso Lanches é uma aplicação completa para gerenciamento de pedidos em 
 - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-Latest-blue?logo=visual-studio)
 - ![VS Code](https://img.shields.io/badge/VS_Code-Latest-blue?logo=visual-studio-code)
 
-[![BRModelo](https://img.shields.io/badge/BRModelo-Online-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMElEQVR42mP8/w8AAwAB/AG+fbMAAAAASUVORK5CYII=)](https://app.brmodeloweb.com/)
-
+[![BRModelo - Modelagem do Banco de Dados](https://img.shields.io/badge/BRModelo-Online-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMElEQVR42mP8/w8AAwAB/AG+fbMAAAAASUVORK5CYII=)](https://app.brmodeloweb.com/)
 
 ### Configuração do Ambiente
 
@@ -68,6 +59,12 @@ ng serve
 ### Modelagem do Banco de Dados
 
 O [BRModelo](https://app.brmodeloweb.com/) foi utilizado para a modelagem do banco de dados. Consulte os arquivos na pasta `database-model` para visualizar o modelo.
+
+## Assista aos Vídeos
+
+Em nosso canal do YouTube, você encontrará uma playlist completa com as etapas de produção do projeto.
+
+[Assista aos Vídeos](https://www.youtube.com/playlist?list=PLAwtvwNWSwCd7x_dCmmzj9TTftf8I0TkY)
 
 ### Contribuindo
 
